@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/reasynctask" />
+            <option value="$PROJECT_DIR$/rebinder" />
+            <option value="$PROJECT_DIR$/rebroadcastreceiver" />
+            <option value="$PROJECT_DIR$/refragment" />
+            <option value="$PROJECT_DIR$/rehandlerthread" />
+            <option value="$PROJECT_DIR$/reintentservice" />
+            <option value="$PROJECT_DIR$/reokhttp" />
+            <option value="$PROJECT_DIR$/replugindemo" />
+            <option value="$PROJECT_DIR$/reproxy" />
+            <option value="$PROJECT_DIR$/reretrofit" />
+            <option value="$PROJECT_DIR$/reservice" />
+            <option value="$PROJECT_DIR$/resingle_mode" />
+            <option value="$PROJECT_DIR$/revolatile" />
+            <option value="$PROJECT_DIR$/rewebview" />
+            <option value="$PROJECT_DIR$/rxjava_retrofit_mvp2" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

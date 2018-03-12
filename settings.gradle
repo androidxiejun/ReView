@@ -1,0 +1,1 @@
+include ':app', ':refragment', ':replugindemo', ':reservice', ':rebroadcastreceiver', ':rewebview', ':rebinder', ':reasynctask', ':rehandlerthread', ':reintentservice', ':reokhttp', ':reretrofit', ':rxjava_retrofit_mvp2', ':reproxy', ':resingle_mode', ':revolatile'

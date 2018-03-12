@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReFragment</string>
+    <string name="fragment_txt1">Fragment_Activity1</string>
+    <string name="fragment_txt2">Fragment_Activity2</string>
+    <string name="fragment_txt3">Fragment_Activity3</string>
+    <string name="fragment_txt4">Fragment_Activity4</string>
+</resources>

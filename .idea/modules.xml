@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReView.iml" filepath="$PROJECT_DIR$/ReView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reasynctask/reasynctask.iml" filepath="$PROJECT_DIR$/reasynctask/reasynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebinder/rebinder.iml" filepath="$PROJECT_DIR$/rebinder/rebinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebroadcastreceiver/rebroadcastreceiver.iml" filepath="$PROJECT_DIR$/rebroadcastreceiver/rebroadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refragment/refragment.iml" filepath="$PROJECT_DIR$/refragment/refragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rehandlerthread/rehandlerthread.iml" filepath="$PROJECT_DIR$/rehandlerthread/rehandlerthread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reintentservice/reintentservice.iml" filepath="$PROJECT_DIR$/reintentservice/reintentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reokhttp/reokhttp.iml" filepath="$PROJECT_DIR$/reokhttp/reokhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/replugindemo/replugindemo.iml" filepath="$PROJECT_DIR$/replugindemo/replugindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reproxy/reproxy.iml" filepath="$PROJECT_DIR$/reproxy/reproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reretrofit/reretrofit.iml" filepath="$PROJECT_DIR$/reretrofit/reretrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservice/reservice.iml" filepath="$PROJECT_DIR$/reservice/reservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resingle_mode/resingle_mode.iml" filepath="$PROJECT_DIR$/resingle_mode/resingle_mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revolatile/revolatile.iml" filepath="$PROJECT_DIR$/revolatile/revolatile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rewebview/rewebview.iml" filepath="$PROJECT_DIR$/rewebview/rewebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava_retrofit_mvp2/rxjava_retrofit_mvp2.iml" filepath="$PROJECT_DIR$/rxjava_retrofit_mvp2/rxjava_retrofit_mvp2.iml" />
+    </modules>
+  </component>
+</project>
