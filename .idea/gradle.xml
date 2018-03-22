@@ -13,17 +13,22 @@
             <option value="$PROJECT_DIR$/rebinder" />
             <option value="$PROJECT_DIR$/rebroadcastreceiver" />
             <option value="$PROJECT_DIR$/refragment" />
+            <option value="$PROJECT_DIR$/reglide" />
             <option value="$PROJECT_DIR$/rehandlerthread" />
             <option value="$PROJECT_DIR$/reintentservice" />
+            <option value="$PROJECT_DIR$/relrucache" />
             <option value="$PROJECT_DIR$/reokhttp" />
             <option value="$PROJECT_DIR$/replugindemo" />
             <option value="$PROJECT_DIR$/reproxy" />
             <option value="$PROJECT_DIR$/reretrofit" />
+            <option value="$PROJECT_DIR$/reretrofit2" />
+            <option value="$PROJECT_DIR$/reretrofit3" />
             <option value="$PROJECT_DIR$/reservice" />
             <option value="$PROJECT_DIR$/resingle_mode" />
             <option value="$PROJECT_DIR$/revolatile" />
             <option value="$PROJECT_DIR$/rewebview" />
             <option value="$PROJECT_DIR$/rxjava_retrofit_mvp2" />
+            <option value="$PROJECT_DIR$/testupdateapp" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

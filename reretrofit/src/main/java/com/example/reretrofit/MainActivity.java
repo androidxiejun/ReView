@@ -16,6 +16,7 @@ import java.io.IOException;
 import retrofit2.Call;
 import retrofit2.Response;
 import retrofit2.Retrofit;
+import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     public static final String API_URL = "https://api.github.com";
@@ -47,7 +48,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void doJob(String url,String owner,String repo){
 
         //创建Retrofit对象
-        Retrofit retrofit=new Retrofit.Builder().baseUrl(url).build();
+        Retrofit retrofit=new Retrofit.Builder().baseUrl(url)
+                .addConverterFactory(GsonConverterFactory.create())
+                .build();
 
         //动态生成代理;
         MyServer server=retrofit.create(MyServer.class);
